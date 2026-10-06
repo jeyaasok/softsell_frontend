@@ -1,0 +1,2 @@
+# softsell_frontend
+Angular
